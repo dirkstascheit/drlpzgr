@@ -125,6 +125,7 @@
             'cookie_path'       : '/',
             'cookie_domain'     : document.location.host,
             'cookie_expires'    : '365',
+            'css_path'          : '/wp-content/plugins/wp-social-share-privacy-plugin/wp-social-share-privacy.css',
             'uri'               : getURI
         };
 
@@ -142,7 +143,7 @@
 
         // insert stylesheet into document and prepend target element
         if (options.css_path.length > 0) {
-          
+            jQuery('head').append('<link rel="stylesheet" type="text/css" href="' + options.css_path + '" />');
         }
         jQuery(this).prepend('<ul class="social_share_privacy_area"></ul>');
         var context = jQuery('.social_share_privacy_area', this);
