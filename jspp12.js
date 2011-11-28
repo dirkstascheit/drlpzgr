@@ -109,7 +109,7 @@
                 },
                 'gplus' : {
                     'status'            : 'on',
-                    'dummy_img'         : '/wp-content/plugins/wp-social-share-privacy-plugin/images/dummy_gplus.png',
+                    'dummy_img'         : 'http://dirkstascheit.github.com/drlpzgr/dummy_gplus.png',
                     'txt_info'          : '2 Klicks f&uuml;r mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie k&ouml;nnen Ihre Empfehlung an Google+ senden. Schon beim Aktivieren werden Daten an Dritte &uuml;bertragen &ndash; siehe <em>i</em>.',
                     'txt_gplus_off'     : 'nicht mit Google+ verbunden',
                     'txt_gplus_on'      : 'mit Google+ verbunden',
