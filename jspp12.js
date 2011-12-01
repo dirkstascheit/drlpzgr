@@ -85,7 +85,7 @@
             'services' : {
                 'facebook' : {
                     'status'            : 'on',
-                    'dummy_img'         : '/wp-content/plugins/wp-social-share-privacy-plugin/images/dummy_facebook.png',
+                    'dummy_img'         : 'http://dirkstascheit.github.com/drlpzgr/dummy_facebook.png',
                     'txt_info'          : '2 Klicks f&uuml;r mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie k&ouml;nnen Ihre Empfehlung an Facebook senden. Schon beim Aktivieren werden Daten an Dritte &uuml;bertragen &ndash; siehe <em>i</em>.',
                     'txt_fb_off'        : 'nicht mit Facebook verbunden',
                     'txt_fb_on'         : 'mit Facebook verbunden',
@@ -97,7 +97,7 @@
                 }, 
                 'twitter' : {
                     'status'            : 'on', 
-                    'dummy_img'         : '/wp-content/plugins/wp-social-share-privacy-plugin/images/dummy_twitter.png',
+                    'dummy_img'         : 'http://dirkstascheit.github.com/drlpzgr/dummy_twitter.png',
                     'txt_info'          : '2 Klicks f&uuml;r mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie k&ouml;nnen Ihre Empfehlung an Twitter senden. Schon beim Aktivieren werden Daten an Dritte &uuml;bertragen &ndash; siehe <em>i</em>.',
                     'txt_twitter_off'   : 'nicht mit Twitter verbunden',
                     'txt_twitter_on'    : 'mit Twitter verbunden',
